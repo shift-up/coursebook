@@ -12,4 +12,4 @@
 7. [How to use Markdown.](https://github.com/shift-up/coursebook/blob/module/0/module/module-0/section-7/README.md)
 
 ## Ready?
-[Start here!](https://github.com/shift-up/coursebook/blob/module/0/module/module-0/section-1/README.md)
+[Lets begin!](https://github.com/shift-up/coursebook/blob/module/0/module/module-0/section-1/README.md)
