@@ -10,3 +10,6 @@
 5. How to use the Command Line.
 6. How to use Git & Github.
 7. How to use Markdown.
+
+## Ready!?
+[](Start here!)
