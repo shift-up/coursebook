@@ -1,8 +1,8 @@
 # Module 0: Getting started
 
-# Introduction
+## Introduction
 
-# What you will learn? (Outcomes)
+## What you will learn? (Outcomes)
 1. What is Shift_Up?
 2. What is Web Development?
 3. How does the Internet work?
