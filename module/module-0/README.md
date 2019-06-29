@@ -3,7 +3,7 @@
 # Introduction
 
 # What you will learn? (Outcomes)
-1. What is the Shift_Up?
+1. What is Shift_Up?
 2. What is Web Development and?
 3. How does the Internet work?
 4. Getting started with a text editor / IDE.
