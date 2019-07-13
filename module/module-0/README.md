@@ -1,6 +1,7 @@
 # Module 0: Getting started
 
 ## Introduction
+hgdfhgfh
 
 ## What you will learn? (Outcomes)
 1. [Welcome to Shift Up!](https://github.com/shift-up/coursebook/blob/module/0/module/module-0/section-1/README.md)
