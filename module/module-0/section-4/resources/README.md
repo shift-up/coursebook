@@ -1,8 +1,8 @@
-#How to choose a text editor?#
+# How to choose a text editor?
 [Difference between a text editor and an IDE](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636)
 Note: This also includes some recommended text editors/IDE's.
 
-#Downloads#
+# Downloads
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
