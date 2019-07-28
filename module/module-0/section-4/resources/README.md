@@ -1,19 +1,18 @@
-#Command Line Basics Resources#
+#How to choose a text editor?#
+[Difference between a text editor and an IDE](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636)
+Note: This also includes some recommended text editors/IDE's.
 
-#Basic Terminal Commands#
-[Fundamentals with Rithm School](https://www.rithmschool.com/courses/terminal)
-[Fundamentals with The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics-web-development-101)
+#Downloads#
+[Visual Studio Code](https://code.visualstudio.com/)
 
-#Installation of Git Bash Terminal#
-[Git Installation Walk Through](https://www.siteground.com/tutorials/git/windows-installation/)
+[Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
 
-#Relative vs. Absolute File Paths#
-[File paths](https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/)
+[Sublime](https://www.sublimetext.com/)
 
-#What is Vim?#
-[What is Vim?](https://medium.com/@fay_jai/what-is-vim-and-why-use-vim-54c67ce3c18e)
+[Brackets](http://brackets.io/)
 
-#Vim for beginners#
-[Vim for beginners](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide)
+[Netbeans](https://netbeans.org/)
 
+[Vim](https://www.vim.org/download.php)
 
+Note: These are just a few editors that I have used or seen used, this is by no means a comprehensive list of all editors that are available for use. If you come accross an editor or IDE that you think works well, feel free to suggest it be added to the list. 
