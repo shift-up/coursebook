@@ -6,7 +6,7 @@
 - https://www.codecademy.com/articles/visual-studio-code
 
 
-### Create an HTML & CSS project
+### Create your first project using HTML & CSS
 
 - https://www.codecademy.com/articles/f1-u2-create-first-prj
 
@@ -19,7 +19,7 @@
 ## Day 2
 
 
-### Git & GitHub
+### Introduction to Git & GitHub
 
 - Read till the end of 'Git distributes': https://opensource.Gitcom/resources/what-is-git
 
