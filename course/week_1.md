@@ -40,4 +40,5 @@
 
 ## Day 2
 
+
 ### Complete the HTML exercise with the same pair. For any incomplete exercises, do them yourself as homework.
