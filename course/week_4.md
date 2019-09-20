@@ -6,7 +6,7 @@
 - https://www.codecademy.com/articles/visual-studio-code
 
 
-### Create your first project using HTML & CSS
+### Setup a basic project using HTML & CSS
 
 - https://www.codecademy.com/articles/f1-u2-create-first-prj
 
