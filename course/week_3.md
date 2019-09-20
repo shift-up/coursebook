@@ -17,15 +17,17 @@
 
 - Positioning: https://www.youtube.com/watch?v=TiY5FuwgocI
 
-
-## Homework
-
-- Learn the basics of responsive design: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles
+- Responsive design: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles
 
 
 ## Day 2
 
 
-### Flexbox
+### CSS Flexbox
 
-- Pair up with a classmate for this exercise: https://learn.freecodecamp.org/responsive-web-design/css-flexbox
+- Pair up with a classmate for this exercise. For any incomplete exercises, do them yourself as homework: https://learn.freecodecamp.org/responsive-web-design/css-flexbox
+
+
+### CSS Grid system
+
+- https://learn.freecodecamp.org/responsive-web-design/css-grid
