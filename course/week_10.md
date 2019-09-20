@@ -1,6 +1,8 @@
 ## Day 1 & Day 2
 
 
-### More JavaScript!
+### Getting into data structures
 
-- Functions: https://eloquentjavascript.net/02_program_structure.html
+- Objects and Arrays: https://eloquentjavascript.net/04_data.html
+
+- Understanding hoisting: https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1
