@@ -21,6 +21,6 @@
 
 ### Introduction to Git & GitHub
 
-- Read till the end of 'Git distributes': https://opensource.Gitcom/resources/what-is-git
+- Read till the end of 'Git distributes': https://opensource.com/resources/what-is-git
 
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
