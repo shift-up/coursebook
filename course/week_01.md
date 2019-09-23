@@ -5,9 +5,9 @@
 
 - https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
 
-- https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/3861186#overview
+- https://www.dropbox.com/s/n1a1gtmy3ibsyg2/03InternetBasics.mp4?dl=0
 
-- https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/3861188#overview
+- https://www.dropbox.com/s/yxcadmh95ue99dn/02FrontEndIntroTypoFixed.mp4?dl=0
 
 
 ### Helpful resources that you can use throughout your journey
