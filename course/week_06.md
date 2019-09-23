@@ -3,4 +3,4 @@
 
 ### Keep working on your first project!
 
-- The project: https://www.codecademy.com/articles/f1-u2-create-first-prj
+- The project: https://www.theodinproject.com/courses/web-development-101/lessons/html-css
