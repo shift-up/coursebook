@@ -1,7 +1,7 @@
 ## Day 1
 
 
-### Have some fun with HTML
+### Have some fun with HTML!
 
 - Pick a new pair
 
