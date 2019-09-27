@@ -14,7 +14,8 @@
 
 - Continue with the same pair for this exercise: https://learn.freecodecamp.org/responsive-web-design/basic-css
 
-- No homework
+
+### No homework
 
 
 ## Day 2
