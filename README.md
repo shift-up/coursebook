@@ -1,4 +1,4 @@
-## Guidlines
+## Guidelines
 
 - Complete all work for a particular day before the next class
 
