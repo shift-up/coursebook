@@ -5,7 +5,7 @@
 
 - Pick a new pair
 
-- Using CodePen https://codepen.io/pen/, try building out the below HTML form in one hour
+- Using CodePen https://codepen.io/pen/, try building out the below HTML form. Complete how much ever you can in one hour
 
 ![html-form](https://user-images.githubusercontent.com/8469211/65740564-34252f80-e0b7-11e9-9004-34ee40a74e66.png)
 
