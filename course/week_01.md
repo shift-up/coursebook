@@ -38,6 +38,9 @@
 - Pair up with a classmate for this exercise: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
 
 
+### No homework
+
+
 ## Day 2
 
 
