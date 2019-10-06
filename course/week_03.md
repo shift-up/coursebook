@@ -28,15 +28,22 @@
 
 - Responsive design: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles
 
+- How to think in CSS: https://piratefsh.github.io/how-to/2016/01/27/how-to-think-in-css.html
+
 
 ## Day 2
 
 
 ### CSS Flexbox
 
-- Pair up with a classmate for this exercise. For any incomplete exercises, do them yourself as homework: https://learn.freecodecamp.org/responsive-web-design/css-flexbox
+- Pair up with a classmate for this exercise: https://learn.freecodecamp.org/responsive-web-design/css-flexbox
 
 
 ### CSS Grid system
 
-- https://learn.freecodecamp.org/responsive-web-design/css-grid
+- Continue with the same pair: https://learn.freecodecamp.org/responsive-web-design/css-grid
+
+
+### Homework
+
+- Do the incomplete exercises as homework by yourself
