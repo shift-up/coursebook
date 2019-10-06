@@ -1,6 +1,15 @@
 ## Day 1
 
 
+### Time to test what you learnt in CSS last week!
+
+- In one hour, try and complete all the tasks mentioned in the comments of this mini-project: https://codepen.io/nballaney/pen/oNNNmbJ
+
+- After completing all the tasks, the code's output should look like the below screenshot
+
+![css-solution](https://user-images.githubusercontent.com/8469211/66277584-6f212300-e86e-11e9-80ed-374ec2ee1ad2.png)
+
+
 ### Strenghten your CSS skills by grasping the below concepts
 
 - Selectors: https://www.freecodecamp.org/news/css-selectors-explained-by-going-car-shopping-51a383f6eb4b/#.qqgbciyb3
