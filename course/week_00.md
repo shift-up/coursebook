@@ -12,6 +12,6 @@
 
 - It's the most popular course on Coursera, helpful with understanding how people actually learn effectively
 
-- It may take you 4-12 hours
+- It may take 4-12 hours
 
 - https://www.coursera.org/learn/learning-how-to-learn 
