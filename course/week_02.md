@@ -22,3 +22,8 @@
 
 
 ### Complete the CSS exercise with the same pair. For any incomplete exercises, do them yourself as homework
+
+
+### Extra credit
+
+- In your spare time, complete as much of this exercise as you can: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
