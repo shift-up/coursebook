@@ -3,6 +3,8 @@
 
 ### Time to test what you learnt in CSS last week!
 
+- Pair up with a classmate
+
 - In one hour, try and complete all the tasks mentioned in the comments of this mini-project: https://codepen.io/nballaney/pen/oNNNmbJ
 
 - After completing all the tasks, the code's output should look like the below screenshot
