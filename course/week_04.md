@@ -1,7 +1,7 @@
 ## Day 1
 
 
-### Setup Visual Studio Code
+### Set up Visual Studio Code
 
 - https://www.codecademy.com/articles/visual-studio-code
 
@@ -11,9 +11,13 @@
 - https://www.codecademy.com/articles/f1-u2-create-first-prj
 
 
-### Learn about the command line (The Matrix)
+### Learn about the command line
 
-- https://learnpythonthehardway.org/book/appendixa.html
+- The command line is the black screen with the green text that you see in the movies (think Matrix)
+
+- Complete this exercise: https://learnpythonthehardway.org/book/appendixa.html
+
+- Be careful when deleting files through the command line: https://fvsch.com/command-line-tips/#rmrf
 
 
 ## Day 2
