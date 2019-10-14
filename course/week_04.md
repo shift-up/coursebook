@@ -1,7 +1,7 @@
 ## Day 1
 
 
-### Let's build a comic book!
+### Let's build a comic strip!
 
 - Pair up with a classmate for this exercise
 
