@@ -13,6 +13,10 @@
 
 - Make the comic strip responsive using CSS Grid
 
+- Look at the below image for reference
+
+<img width="577" alt="Screen Shot 2019-10-14 at 6 39 00 PM" src="https://user-images.githubusercontent.com/8469211/66787496-ed567880-eeb1-11e9-9d2b-b9b788f74301.png">
+
 
 ### Setup Visual Studio Code
 
