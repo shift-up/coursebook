@@ -32,4 +32,4 @@ We'd like you to build an image carousel!
 
 - Allow keyboard navigation between images with the left/right arrow keys
 
-- You're more than welcome to be creative with your project as long as you meet the minimum features and the learning outcomes
+- Get creative with your project as long as you meet the minimum features and the learning outcomes
