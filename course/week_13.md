@@ -18,7 +18,7 @@
 ## Day 2
 
 
-### Debugging your code
+### Debugging your code (you'll thank us later!)
 
 - https://www.youtube.com/watch?v=NTaNksV-DPY
 
