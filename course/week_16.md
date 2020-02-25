@@ -5,4 +5,4 @@
 
 - How to take a user from one page to another? The answer is React Router: https://www.taniarascia.com/using-react-router-spa/
 
-- Make your React apps interactive! Time to learn Redux: https://www.valentinog.com/blog/redux/
+- Ready to build bigger apps!? Time to learn Redux: https://www.valentinog.com/blog/redux/
