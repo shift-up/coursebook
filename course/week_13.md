@@ -45,3 +45,5 @@
 ### Get started with React, one of the most in-demand front-end frameworks!
 
 - https://www.taniarascia.com/getting-started-with-react/
+
+- Understand how to think in React: https://reactjs.org/docs/thinking-in-react.html
