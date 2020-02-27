@@ -14,3 +14,5 @@
 - Since we haven't learned how to build server-side APIs as of yet, you can store the data that's needed for the app in a JSON file like so: https://www.youtube.com/watch?v=9C85o8jIgUU. This means that the app would have dummy data for now, but don't worry about that
 
 - Learn more about how to collaborate with Git by completing the 'Collaborating' section at https://www.atlassian.com/git/tutorials/syncing. You'll most definitely end up using this system at a software engineering job!
+
+- Consider writing test scripts to test the functionality of the site and learning how to do it
