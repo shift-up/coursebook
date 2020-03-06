@@ -13,4 +13,4 @@
 
 - Since we haven't gotten into databases yet, you can use a JSON file on the back-end to store and retreive data
 
-- Feel free to modify the React app where necessary and to add more features
+- Feel free to modify the React app where necessary and to add more features!
