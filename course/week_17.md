@@ -1,6 +1,11 @@
 ## Day 1 & Day 2
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/NXTrfGBXTKg3Z9jkz
+
+
 ### Form a group and choose your project!
 
 - Gather a team of 2-5 learners

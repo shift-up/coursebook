@@ -1,6 +1,11 @@
 ## Day 1
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/4aiWPfNZfpJTZDPSX
+
+
 ### What is the back-end anyway?
 
 - Introduction to servers (till 4:47): https://youtu.be/CDxaRfwzFrs?t=106

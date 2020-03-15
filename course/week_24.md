@@ -1,6 +1,11 @@
 ## Day 1 & Day 2
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/4s93F8ZiEdHjmMnMv
+
+
 ### Make any last minute changes to your project!
 
 

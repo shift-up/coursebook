@@ -1,6 +1,11 @@
 ## Day 1 & Day 2
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/ERmrS3QrK7sEt4PAt
+
+
 ### Pair back-end project
 
 - Pick a partner

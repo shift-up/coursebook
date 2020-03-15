@@ -1,6 +1,11 @@
 ## Day 1
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/uqwmC7RJF98xr3TiD
+
+
 ### You've heard of databases. Have you heard of SQL?
 
 - Introduction to SQL and PostgresSQL: https://www.youtube.com/watch?v=qw--VYLpxG4

@@ -1,6 +1,11 @@
 ## Day 1
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/pbK3wzLDvdwfEKgMt
+
+
 ### Libraries and Frameworks
 
 - What is jQuery? https://www.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-intro/v/what-is-jquery

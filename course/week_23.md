@@ -1,6 +1,11 @@
 ## Day 1 & Day 2
 
 
+### Challenge
+
+Grab a pair and solve this challenge: https://edabit.com/challenge/2buQEWggGkx7RQYD7
+
+
 ### Pair database project
 
 - Pick a partner
